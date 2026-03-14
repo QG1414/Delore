@@ -10,6 +10,7 @@ Authors:
 * **[Michał Szuba](https://github.com/hubabuba7D4)** – 3D Artist
 * **[Jakub Olechowski](https://github.com/helchimlay)** – Programmer
 * **Jakub Kisielewicz** – Programmer
+* **Julka Szenborn** - Game Designer
 
 ## Basic Info
 
