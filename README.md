@@ -28,6 +28,9 @@ It is a relatively simple concept, but still provides some fun gameplay.
 You can watch the trailer here:
 https://www.youtube.com/watch?v=w6PtXrNDFQY
 
+The game can be played here:
+https://steellotus.itch.io/delore-after-the-years
+
 ## Technology
 
 The game was developed using **Unity** with the **C# programming language**.
