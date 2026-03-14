@@ -1,4 +1,4 @@
-## Delore
+# Delore
 
 Authors:
 * **[Kacper Potaczała](https://github.com/QG1414)** – Programmer
